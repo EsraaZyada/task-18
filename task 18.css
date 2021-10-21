@@ -21,6 +21,7 @@ body{
     width: 60px;
     position: relative;
     top: 12px;
+    left: 140px;
 }
 .spans{
     line-height: 80px;
@@ -649,7 +650,7 @@ textarea{
     background-color: #282f96;
 }
 .left9{
-    width: 350px;
+    width: 300px;
 }
 .imgrob{
     width: 70px;
@@ -665,4 +666,7 @@ textarea{
 }
 .h510{
     color:  #5c65eb;
+}
+.lastdiv{
+    width: 300px;
 }
